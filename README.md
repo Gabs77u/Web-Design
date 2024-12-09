@@ -69,12 +69,12 @@ O projeto Heróis da Terra é um site interativo que apresenta a Turma do Banana
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/herois-da-terra.git
+git clone https://github.com/Gabs77u/Web-Design.git
 ```
 
 2. Navegue até o diretório do projeto
 ```bash
-cd herois-da-terra
+cd Web-Design
 ```
 
 3. Inicie um servidor local
@@ -135,7 +135,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Gabriel Araujo - [@Gabs77u](https://github.com/Gabs77u)
 
-Link do Projeto: [https://github.com/Gabs77u/herois-da-terra](https://github.com/Gabs77u/herois-da-terra)
+Link do Projeto: [https://github.com/Gabs77u/Web-Design](https://github.com/Gabs77u/Web-Design)
 
 ---
 ⭐️ From [Gabs77u](https://github.com/Gabs77u) 
